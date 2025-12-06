@@ -1,0 +1,118 @@
+CSS===>Cascading Style Sheets
+===============================
+Three ways to use CSS with HTML
+1)Internal Styling
+2)Inline Styling
+3)External Styling
+=========================================================
+Selectors In CSS
+=================
+1.Basic Selectors
+  1.element selector
+   element_name{css code}
+  2.id selector
+   #id{css code}
+  3.class selector
+    .class_name{}
+=================================
+2.Advance Selectors
+Create an online gym application with
+  1.images
+  2.Packages Offered==>Basic,Standard,Premium
+  3.Inquiry Form
+===================================================================
+Advance Selectors in CSS
+---------------------------
+1. * selector
+        ====>for all elements
+       *{
+          CSS code
+        }
+2. adjacent selector
+     element+adj_element{
+          CSS code
+       }
+        
+3. descendent selector
+      parent_element Descendent_element{css}
+
+4. attribute selector
+    element[attribute]{css code}
+
+5. nth-of-type selector
+=====================================================================
+Animations In CSS
+====================
+animation===>gradual change in style
+---------------------------------------
+animation is defined using @keyframes rule
+=======================================================================================
+Move a text in a web page from left to right and right to left using animation.
+======================================================================
+JavaScript
+============
+GitHub.com
+-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
