@@ -1,0 +1,1 @@
+document.write("<h1>This Is External Web Content</h1>")

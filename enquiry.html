@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <script>
+      function accept(){
+        var z=document.getElementById("x");
+        z.innerHTML="<h1>Thanks For Your Enquiry!!!!Will Get Back Soon....</h1>";
+      }
+    </script>
+  </head>
+  <body>
+    <center>
+      <h1>Enquiry Form</h1>
+      <form onsubmit="accept()">
+        Name<input type="text" name="" value=""><br><br>
+        DOB<input type="date" name="" value=""><br><br>
+        Email<input type="email" name="" value=""><br><br>
+        Password<input type="password" name="" value=""><br><br>
+        <input type="submit" name="" value="Submit">
+        <div id="x"></div>
+      </form>
+    </center>
+  </body>
+</html>

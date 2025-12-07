@@ -49,10 +49,131 @@ animation is defined using @keyframes rule
 =======================================================================================
 Move a text in a web page from left to right and right to left using animation.
 ======================================================================
-JavaScript
+
 ============
 GitHub.com
------------------------------------------------------
+---------------------------------------------------
+https://github.com/nandan1210/sits
+---------------------------------------------------
+JavaScript
+--------------
+ECMAScript====>official name of javascript
+ECMA====>European Computer Manufacturers Association
+---------------------------------------------------------
+Why we use javascript====>to make web page dynamic
+----------------------------------------------------
+output can be displayed using javascript in two ways===>
+  1. document.write()
+       document===>webpage
+  2. console.log()
+       console====>place where we are writing command
+===============================================================
+Write a javascript program to add two numbers.
+======================================================
+Javascript===>scripting language
+  1.loosely typed/weakly typed
+  2.dynamically typed
+=================================================================
+Functions In JavaScript
+----------------------------
+function====>
+======================================================================
+ECMAScript(ES)===>official name of javascript
+ES6====>advance javascript
+const x=9
+----------------------------------------------------------------------
+ordinary function,anonymous function,arrow function
+---------------------------------------------------------------
+Events In JavaScript
+=====================
+events====>mechanism to call a function
+user===>action====>event is triggered=====>function is called.
+-------------------------------------------------------------------
+Steps:
+---------
+1.Define a javascript function
+2.Create A User Interface using HTML
+3.User performs action using UI
+4.action will trigger the event
+5.event will call the function
+===================================
+1.onclick
+2.ondblclick
+3.onmouseover
+4.onfocus 
+5.onmouseout
+6.onblur 
+7.onsubmit
+========================================
+DOM=====>document object model
+document.write()
+document.getElementById()
+=====================================================================
+Password Validation Using Javascript
+=====================================================================
+React.js=====>front end library of javascript
+framework====>react
+===================================================
+npm====>node package manager=====>to install a new package
+   install create-react-app
+npx====>node package executor====>to execute already existing package
+---------------------------------------------------------------------
+Git and GitHub
+-----------------
+git===>version control system(VCS).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

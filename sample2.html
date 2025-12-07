@@ -1,17 +1,17 @@
 <html>
-  <head>
-   <style>
-     @keyframes rotate{
-       from{transform:rotateX(0deg);}
-       to{transform:rotateX(360deg);}
-     }
-     h1{
-         animation:rotate 10s linear infinite;
-         display:inline block;
-       }
-   </style>
-  </head>
+  <head></head>
   <body>
-    <h1>Welcome To SITS</h1>
+    <h1>Functions In Javascript</h1>
+    <script>
+     function display(){
+       document.write("<h1>This Is My First Function</h1>");
+      }
+     function sum(x,y){
+       document.write("<h1>sum="+(x+y)+"</h1>");
+     }
+     display();
+     sum(8,7);
+     sum(10,8);
+    </script>
   </body>
 </html>
