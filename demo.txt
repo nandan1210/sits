@@ -121,6 +121,45 @@ npx====>node package executor====>to execute already existing package
 Git and GitHub
 -----------------
 git===>version control system(VCS).
+========================================
+1.Open MySQL shell
+2.deafult mode===>JS mode
+3.switch from JS mode to SQL mode(/sql)
+4.connect to mysql
+   \connect root@localhost:3306
+
+5.Displaying list of databases
+     show databases;
+  or show schemas;
+6.Create your own database
+     create database mydb1;
+ or  create database mydb2;
+7.Switching to any database
+  use mydb1;
+8.Displaying tables inside database
+  show tables;
+9.Creating a table
+  create table Student(
+                        rollno integer,
+                        name varchar(20),
+                        marks float,
+                        course varchar(15)
+                        );
+
+10.Describing Structure of A Table
+      desc Student;
+  or  describe Student;
+
+11.Entering Values Into The Table
+   insert into Student values(104,"Nitesh",86,"Javascript");
+
+12.Displaying Values Of A Table
+    select * from Student;
+
+  
+
+
+
 
 
 
